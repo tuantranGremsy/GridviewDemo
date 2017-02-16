@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_0b56fa1c9d73c9e2ca65856c204919a70822e027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cef70e8ee9646e95d7fe5e53a488b88e5aeffc27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_0770bf8712340f6e896d5bc927271d24eb72e952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_896c055541dc876bac9d929386783a6a45a20f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0217b2d4c0bc4047397fc5c25256e52a0d9e9c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ee1fdfee8d7cca8c867ffeca29d950ef905030b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="08d0b6c8922821d4709271f0d358dd4f4c20deba">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_8cf45e2b3150b2e447517b696d0415b893c67741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_098db7b0f3bcdfe2d2f3b0d654b9536282dcc1a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="749c406f48947a4d94d0b825c90863b05fa47725">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/instant-run_3f58eb0c03b1a11c91256016034e06a4c0c60fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_855cba2ce13870f5bfc741730fbdd1f820d5dfe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_e50b8392fcdfc8f81ab5dc68cc41e7b66c29ee86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuantran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_d81f32626d3d2bb088008baaaec3ca6dc1524ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f61c0d5ea539d511ad5930900fb737ded66fef97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_f56aa36fcef4727b42f4bb0786aeae75e314cff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a308214cac6c43297364aa51f3d0f443af3b6d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_2fefd7f7211c1e6141cf8b28a583b5e3fcbd288f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Volumes/Data/AndroidStudio/GridviewDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9cf3d58ad619aa7623e6b5f555f21b730313e8c1.jar" />
+    </item>
+
+</items>
